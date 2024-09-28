@@ -1,0 +1,9 @@
+kicad/libs/DRV2625YFFT/
+
+*-backups
+fp-info-cache
+*~
+.DS_Store
+*.lck
+\#auto_saved_files\#
+_autosave-*
